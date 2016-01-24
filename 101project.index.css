@@ -1,0 +1,60 @@
+html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       text-align: center;
+    }
+    header {
+        align: center;
+        width: auto;;
+        height: 100px;
+        background: url(http://lipstickncurlss.com/wp-content/uploads/2015/10/marble-website-background-floors-professional-flooring-greenville-sc-carpent-tile-wood-vinyl-luxury-vinyl2.jpg);
+        margin-left: 75px;
+        padding-top: 30px;
+        font-family: monospace;
+        font-size: 20px;
+      }
+    }
+    nav {
+        line-height:;
+        background-color:;
+        font-size: 20px;
+        width:125px;
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+    }
+    nav ul {
+        list-style-type: none;
+        text-align: center;
+    }
+    a {
+        color: ;
+    }
+    article {
+      text-align: center;
+    }
+    section {
+        width: auto;
+        display: inline-block;
+        text-align: center;
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+      text-align: center;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align: center;
+        padding:5px;
+        display: block;
+    }
